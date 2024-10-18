@@ -1,0 +1,24 @@
+{
+	"compilerOptions": {
+		/* Language and Environment */
+		"target": "ES2023" /* JavaScript version to use */,
+
+		/* Modules */
+		"module": "commonjs" /* Module system to use */,
+		"moduleResolution": "Node" /* How modules are resolved */,
+		"rootDir": "./src" /* Root folder of source files */,
+
+		/* JavaScript Support */
+		"outDir": "./dist" /* Output folder for compiled files */,
+
+		/* Interop Constraints */
+		"esModuleInterop": true /* Compatibility with CommonJS modules */,
+		"forceConsistentCasingInFileNames": true /* Enforce case sensitivity in imports */,
+
+		/* Type Checking */
+		"strict": true /* Enable strict type checks */,
+
+		/* Completeness */
+		"skipLibCheck": true /* Skip checking .d.ts files */
+	}
+}
